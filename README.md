@@ -57,7 +57,7 @@ Patients with higher priority are treated before others.
 Clone the repository:
 
 ```bash
-git https://github.com/sasidharthippana-commits/Hospital-queue-management-system.git
+git https://github.com/shaikfaiz07/Hospital-Queue-Management-System.git
 ```
 
 Move into project folder:
