@@ -5,7 +5,7 @@ A web-based Hospital Queue Management System developed using Python and Streamli
 ## 🚀 Live Demo
 
 🌐 Streamlit App:
-https://hospital-queue-management-system-66jkeail3mx.streamlit.app/
+https://hospital-que-brwd63uymstahojwnc4sf7.streamlit.app/
 
 ## 📌 Project Description
 
@@ -88,7 +88,7 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Sasidhar Thippana
+Faiz Ahamad
 
 GitHub:
 https://github.com/sasidharthippana-commits
